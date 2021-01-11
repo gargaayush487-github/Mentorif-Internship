@@ -3,9 +3,9 @@ html {
 }
 
 .prof-box {
-    width: 590px;
+    width: 750px;
     height: 650px;
-    background-color: light blue;
+    background-color: rgb(83, 132, 165);
     padding: 40px;
     color: black;
     margin: 0 auto;
@@ -16,10 +16,10 @@ html {
 
 .prof-pic {
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    height: 204px;
+    width: 250px;
     border-style: solid;
-    border-color: black;
+    border-color: white;
     border-width: 4px;
     border-radius: 50%;
 }
@@ -56,5 +56,5 @@ p{
 }
 
 .social-icons a:hover { 
-    color: yellow;
+    color: plum;
 }
